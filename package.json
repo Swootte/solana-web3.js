@@ -1,5 +1,5 @@
 {
-  "name": "@swotte/web3.js",
+  "name": "@swootte/web3.js",
   "version": "0.0.0-development",
   "description": "Swootte Javascript API",
   "keywords": [
@@ -11,10 +11,10 @@
   "homepage": "https://swootte.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/swootte/solana-web3.js.git"
+    "url": "https://github.com/Swootte/solana-web3.js.git"
   },
   "bugs": {
-    "url": "http://github.com/swootte/solana-web3.js.git/issues"
+    "url": "http://github.com/Swootte/solana-web3.js.git/issues"
   },
   "publishConfig": {
     "access": "public"
